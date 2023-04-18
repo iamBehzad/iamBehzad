@@ -59,6 +59,19 @@ In this repository you can find codes of Face_Recognition, Human_Posture_Recogni
 ## Complex-Networks
 In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with NetworkX library [repository](https://github.com/iamBehzad/Complex-Networks) for more information.
 
+# 🎓 Education
+
+## PHD Student, Computer Engineering
+Islamic Azad University
+Sep 2021
+
+## Master of Computer Engineering, Computer Software Engineering
+Islamic Azad University
+Jan 2011 - Jan 2014
+
+## Bachelor of Computer Engineering, Computer Software Engineering
+Islamic Azad UniversityIslamic Azad University
+Sep 2004 - Jun 2008
 
 # 🏆 Certifications
 
