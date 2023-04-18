@@ -24,7 +24,7 @@ I am a PhD candidate with extensive expertise in machine learning, deep learning
 Here are some of my recent projects that showcase my skills and expertise:
 
 ## Streamlit-Vaccination-Regression
-Project1.ipynb ===> Python Code of RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model for prediction Covid Vaccination with scikit-learn module\n
+Project1.ipynb ===> Python Code of RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model for prediction Covid Vaccination with scikit-learn module/n
 PyCaret_Vaccination.ipynb ====> Python Code of some various regressor Model for prediction Covid Vaccination with PyCaret module
 Covid.py ===> Python Codes of deploying RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model on Streamlit. 
 [repository](https://github.com/iamBehzad/Streamlit-Vaccination-Regression) for more information.
