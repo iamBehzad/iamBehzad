@@ -8,7 +8,7 @@ I am a PhD candidate with extensive expertise in machine learning, deep learning
 * Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, Pytorch, Darts, OpenCV, NLTK, NetworkX) 
 * MATLAB
 * Data visualization and storytelling
-* Machine learning (Supervised, Unsupervised learning and Reinforcement learning)
+* Machine learning (Supervised, Unsupervised and Reinforcement learning)
 * Deep learning
 * Natural Language Processing (NLP)
 * Machine Vision and Image Processing
