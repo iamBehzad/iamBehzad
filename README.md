@@ -5,7 +5,7 @@ I am a PhD candidate with extensive expertise in machine learning, deep learning
 
 # 🔭 SKILLS
 ## High Proficiency
-* Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, Pytorch, Darts, OpenCV, NLTK) 
+* Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, Pytorch, Darts, OpenCV, NLTK, NetworkX) 
 * Data visualization and storytelling
 * Machine learning (supervised, unsupervised learning and Reinforcement learning)
 * Deep learning
@@ -61,15 +61,15 @@ In this repository you can find some helpful codes for implementation of some fa
 
 # 🎓 Education
 
-### PHD Student, Computer Engineering
+## PHD Student, Computer Engineering
 Islamic Azad University
 Sep 2021
 
-### Master of Computer Engineering, Computer Software Engineering
+## Master of Computer Engineering, Computer Software Engineering
 Islamic Azad University
 Jan 2011 - Jan 2014
 
-### Bachelor of Computer Engineering, Computer Software Engineering
+## Bachelor of Computer Engineering, Computer Software Engineering
 Islamic Azad UniversityIslamic Azad University
 Sep 2004 - Jun 2008
 
