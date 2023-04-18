@@ -27,27 +27,27 @@ A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by impro
 [repository](https://github.com/iamBehzad/Advanced-Differential-Evolution) for more information.
 
 ## Data_Mining_Statistics_Python
-In this repository you can find some helpful codes for Data Mining Statistics 
+In this repository you can find some helpful codes for Data Mining Statistics. 
 [repository](https://github.com/iamBehzad/Data_Mining_Statistics_Python) for more information.
 
 ## Streamlit-Vaccination-Regression
 Project1.ipynb ===> Python Code of RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model for prediction Covid Vaccination with scikit-learn module
 PyCaret_Vaccination.ipynb ====> Python Code of some various regressor Model for prediction Covid Vaccination with PyCaret module
-Covid.py ===> Python Codes of deploying RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model on Streamlit 
+Covid.py ===> Python Codes of deploying RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model on Streamlit. 
 [repository](https://github.com/iamBehzad/Streamlit-Vaccination-Regression) for more information.
 
 ## Streamlit-ChurnModel-Classification
 Project2.ipynb ===> Python Code of XGboost , Random Forest , SVC , Logistic Regression Model for prediction Chrun with scikit-learn module
 PyCaret_Vaccination.ipynb ====> Python Code of some various classification Model for prediction Chrun with PyCaret module
-Chrun.py ===> Python Codes of deploying XGboost , Random Forest , SVC , Logistic Regression Model on Streamlit
+Chrun.py ===> Python Codes of deploying XGboost , Random Forest , SVC , Logistic Regression Model on Streamlit.
 [repository](https://github.com/iamBehzad/Streamlit-ChurnModel-Classification) for more information.
 
 ## Churn_Modelling-Mlp
-In this repository you can find some helpful codes for Churn Modelling with Mlp with PyTorch library 
+In this repository you can find some helpful codes for Churn Modelling with Mlp with PyTorch library. 
 [repository](https://github.com/iamBehzad/Churn_Modelling-Mlp) for more information.
 
 ## FakeNewsDetection-MLP
-In this repository you can find codes of "Fake News Detection" with MLP 
+In this repository you can find codes of "Fake News Detection" with MLP. 
 [repository](https://github.com/iamBehzad/FakeNewsDetection-MLP) for more information.
 
 ## Machine-Vision-and-Image-Processing
@@ -55,7 +55,7 @@ In this repository you can find codes of Face_Recognition, Human_Posture_Recogni
 [repository](https://github.com/iamBehzad/Machin-Vision-and-Image-Processing) for more information.
 
 ## Complex-Networks
-In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with NetworkX library 
+In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with NetworkX library. 
 [repository](https://github.com/iamBehzad/Complex-Networks) for more information.
 
 # 🎓 Education
