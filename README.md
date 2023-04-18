@@ -22,6 +22,9 @@ I am a PhD candidate with extensive expertise in machine learning, deep learning
 # 🌱 Projects
 Here are some of my recent projects that showcase my skills and expertise:
 
+## Advanced Differential Evolution (ADE)
+A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by improving the DE algorithm. [repository](https://github.com/iamBehzad/Advanced-Differential-Evolution) for more information.
+
 ## Data_Mining_Statistics_Python
 In this repository you can find some helpful codes for Data Mining Statistics [repository](https://github.com/iamBehzad/Data_Mining_Statistics_Python) for more information.
 
