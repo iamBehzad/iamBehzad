@@ -30,7 +30,7 @@ Covid.py ===> Python Codes of deploying RandomForestRegressor, DecisionTreeRegre
 [repository](https://github.com/iamBehzad/Streamlit-Vaccination-Regression) for more information.
 
 ## Streamlit-ChurnModel-Classification
-Project2.ipynb ===> Python Code of XGboost , Random Forest , SVC , Logistic Regression Model for prediction Chrun with scikit-learn module  
+Project2.ipynb ===> Python Code of XGboost , Random Forest , SVC , Logistic Regression Model for prediction Churn with scikit-learn module  
 PyCaret_Vaccination.ipynb ====> Python Code of some various classification Model for prediction Chrun with PyCaret module  
 Chrun.py ===> Python Codes of deploying XGboost , Random Forest , SVC , Logistic Regression Model on Streamlit.  
 [repository](https://github.com/iamBehzad/Streamlit-ChurnModel-Classification) for more information.
@@ -44,7 +44,7 @@ In this repository you can find codes of "Fake News Detection" with MLP.
 [repository](https://github.com/iamBehzad/FakeNewsDetection-MLP) for more information.
 
 ## Machine-Vision-and-Image-Processing
-In this repository you can find codes of Face_Recognition, Human_Posture_Recognition, Object_Detection_and_Tracking, Skin_Detection.ipynb  
+In this repository you can find codes of "Face Recognition", "Human Posture Recognition", "Object Detection and Tracking", "Skin Detection"
 [repository](https://github.com/iamBehzad/Machin-Vision-and-Image-Processing) for more information.
 
 ## Advanced Differential Evolution (ADE)
