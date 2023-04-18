@@ -12,6 +12,7 @@ I am a PhD candidate with extensive expertise in machine learning, deep learning
 * Natural Language Processing (NLP)
 * Machine Vision and Image Processing
 * Metaheuristic algorithms (Swarm Intelligence, Evolutionary Computation)
+* MATLAB
 * Microsoft Office (Word, Excel, Powerpoint)
 ## Intermediate Proficiency
 * HTML & Web development fundamentals
@@ -21,14 +22,6 @@ I am a PhD candidate with extensive expertise in machine learning, deep learning
 
 # 🌱 Projects
 Here are some of my recent projects that showcase my skills and expertise:
-
-## Advanced Differential Evolution (ADE)
-A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by improving the DE algorithm. 
-[repository](https://github.com/iamBehzad/Advanced-Differential-Evolution) for more information.
-
-## Data_Mining_Statistics_Python
-In this repository you can find some helpful codes for Data Mining Statistics. 
-[repository](https://github.com/iamBehzad/Data_Mining_Statistics_Python) for more information.
 
 ## Streamlit-Vaccination-Regression
 Project1.ipynb ===> Python Code of RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model for prediction Covid Vaccination with scikit-learn module
@@ -54,9 +47,17 @@ In this repository you can find codes of "Fake News Detection" with MLP.
 In this repository you can find codes of Face_Recognition, Human_Posture_Recognition, Object_Detection_and_Tracking, Skin_Detection.ipynb 
 [repository](https://github.com/iamBehzad/Machin-Vision-and-Image-Processing) for more information.
 
+## Advanced Differential Evolution (ADE)
+A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by improving the DE algorithm. 
+[repository](https://github.com/iamBehzad/Advanced-Differential-Evolution) for more information.
+
 ## Complex-Networks
 In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with NetworkX library. 
 [repository](https://github.com/iamBehzad/Complex-Networks) for more information.
+
+## Data_Mining_Statistics_Python
+In this repository you can find some helpful codes for Data Mining Statistics. 
+[repository](https://github.com/iamBehzad/Data_Mining_Statistics_Python) for more information.
 
 # 🎓 Education
 
