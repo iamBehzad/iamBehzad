@@ -57,7 +57,7 @@ In this repository you can find codes of "Fake News Detection" with MLP [reposit
 In this repository you can find codes of Face_Recognition, Human_Posture_Recognition, Object_Detection_and_Tracking, Skin_Detection.ipynb [repository](https://github.com/iamBehzad/Machin-Vision-and-Image-Processing) for more information.
 
 ## Complex-Networks
-In this repository you can find some helpful codes forimplementation of some famouse Complex networks models and analayzing with NetworkX library [repository](https://github.com/iamBehzad/Complex-Networks) for more information.
+In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with NetworkX library [repository](https://github.com/iamBehzad/Complex-Networks) for more information.
 
 
 # 🏆 Certifications
