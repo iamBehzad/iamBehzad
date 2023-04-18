@@ -54,23 +54,23 @@ In this repository you can find some helpful codes forimplementation of some fam
 # 🏆 Certifications
 
 ## MaktabKhooneh
-* [Machine Learning by MaktabKhooneh](https://maktabkhooneh.org/certificates/MK-BNYKXY/)
-* [Reinforcement Learning by MaktabKhooneh](https://maktabkhooneh.org/certificates/MK-3R7BQW/)
-* [Deep Learning with Tensorflow and Keras by MaktabKhooneh](https://maktabkhooneh.org/certificates/MK-K1NCSR/)
-* [Advanced Deep Learning: Low Level Modeling by MaktabKhooneh](https://maktabkhooneh.org/certificates/MK-QGQ26A/)
-* [Advanced Deep Learning: Sequence Modeling by MaktabKhooneh](https://maktabkhooneh.org/certificates/MK-BNYKXY/)
-* [Machin Vision and Image Processing with OpenCV by MaktabKhooneh](https://maktabkhooneh.org/certificates/MK-DBKW9I/)
+* [Machine Learning](https://maktabkhooneh.org/certificates/MK-BNYKXY/)
+* [Reinforcement Learning](https://maktabkhooneh.org/certificates/MK-3R7BQW/)
+* [Deep Learning with Tensorflow and Keras](https://maktabkhooneh.org/certificates/MK-K1NCSR/)
+* [Advanced Deep Learning: Low Level Modeling](https://maktabkhooneh.org/certificates/MK-QGQ26A/)
+* [Advanced Deep Learning: Sequence Modeling](https://maktabkhooneh.org/certificates/MK-BNYKXY/)
+* [Machin Vision and Image Processing with OpenCV](https://maktabkhooneh.org/certificates/MK-DBKW9I/)
 
 ## SoloLearn
-* [Python Core by SoloLearn](https://www.sololearn.com/certificates/CT-UQZFGFWB)
-* [Machine Learning by SoloLearn](https://www.sololearn.com/certificates/CT-SF2JAZIU)
-* [Data Science by SoloLearn](https://www.sololearn.com/certificates/CT-APOA2MF9)
-* [Python for Data Science by SoloLearn](https://www.sololearn.com/certificates/CT-MERFRDFE)
-* [Python for Finance by SoloLearn](https://www.sololearn.com/certificates/CT-KSLLGBSA)
-* [SQL by SoloLearn](https://www.sololearn.com/certificates/CT-SNR61YMC)
-* [HTML by SoloLearn](https://www.sololearn.com/certificates/CT-LQBXPERO)
-* [Web Development Fundamentals by SoloLearn](https://www.sololearn.com/certificates/CT-QSGHLXV4)
-* [Machine Learning by SoloLearn](https://www.sololearn.com/certificates/CT-SF2JAZIU)
+* [Python Core](https://www.sololearn.com/certificates/CT-UQZFGFWB)
+* [Machine Learning](https://www.sololearn.com/certificates/CT-SF2JAZIU)
+* [Data Science](https://www.sololearn.com/certificates/CT-APOA2MF9)
+* [Python for Data Science](https://www.sololearn.com/certificates/CT-MERFRDFE)
+* [Python for Finance](https://www.sololearn.com/certificates/CT-KSLLGBSA)
+* [SQL](https://www.sololearn.com/certificates/CT-SNR61YMC)
+* [HTML](https://www.sololearn.com/certificates/CT-LQBXPERO)
+* [Web Development Fundamentals](https://www.sololearn.com/certificates/CT-QSGHLXV4)
+* [Machine Learning](https://www.sololearn.com/certificates/CT-SF2JAZIU)
 
 
 # 📫 Let's connect
