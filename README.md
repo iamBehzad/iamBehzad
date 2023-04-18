@@ -10,6 +10,7 @@ I am a PhD candidate with extensive expertise in machine learning, deep learning
 * Data visualization and storytelling
 * Machine learning (Supervised, Unsupervised and Reinforcement learning)
 * Deep learning
+* Sequence Modeling 
 * Natural Language Processing (NLP)
 * Machine Vision and Image Processing
 * Metaheuristic algorithms (Swarm Intelligence, Evolutionary Computation)
