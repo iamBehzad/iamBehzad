@@ -33,20 +33,14 @@ In this repository you can find some helpful codes for Data Mining Statistics
 ## Streamlit-Vaccination-Regression
 
 Project1.ipynb ===> Python Code of RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model for prediction Covid Vaccination with scikit-learn module
-
 PyCaret_Vaccination.ipynb ====> Python Code of some various regressor Model for prediction Covid Vaccination with PyCaret module
-
 Covid.py ===> Python Codes of deploying RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model on Streamlit 
-
 [repository](https://github.com/iamBehzad/Streamlit-Vaccination-Regression) for more information.
 
 ## Streamlit-ChurnModel-Classification
 Project2.ipynb ===> Python Code of XGboost , Random Forest , SVC , Logistic Regression Model for prediction Chrun with scikit-learn module
-
 PyCaret_Vaccination.ipynb ====> Python Code of some various classification Model for prediction Chrun with PyCaret module
-
 Chrun.py ===> Python Codes of deploying XGboost , Random Forest , SVC , Logistic Regression Model on Streamlit
-
 [repository](https://github.com/iamBehzad/Streamlit-ChurnModel-Classification) for more information.
 
 ## Churn_Modelling-Mlp
