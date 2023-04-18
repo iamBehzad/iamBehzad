@@ -31,7 +31,6 @@ In this repository you can find some helpful codes for Data Mining Statistics
 [repository](https://github.com/iamBehzad/Data_Mining_Statistics_Python) for more information.
 
 ## Streamlit-Vaccination-Regression
-
 Project1.ipynb ===> Python Code of RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model for prediction Covid Vaccination with scikit-learn module
 PyCaret_Vaccination.ipynb ====> Python Code of some various regressor Model for prediction Covid Vaccination with PyCaret module
 Covid.py ===> Python Codes of deploying RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model on Streamlit 
@@ -51,7 +50,7 @@ In this repository you can find some helpful codes for Churn Modelling with Mlp 
 In this repository you can find codes of "Fake News Detection" with MLP 
 [repository](https://github.com/iamBehzad/FakeNewsDetection-MLP) for more information.
 
-## Machin-Vision-and-Image-Processing
+## Machine-Vision-and-Image-Processing
 In this repository you can find codes of Face_Recognition, Human_Posture_Recognition, Object_Detection_and_Tracking, Skin_Detection.ipynb 
 [repository](https://github.com/iamBehzad/Machin-Vision-and-Image-Processing) for more information.
 
@@ -81,7 +80,7 @@ Sep 2004 - Jun 2008
 * [Deep Learning with Tensorflow and Keras](https://maktabkhooneh.org/certificates/MK-K1NCSR/)
 * [Advanced Deep Learning: Low Level Modeling](https://maktabkhooneh.org/certificates/MK-QGQ26A/)
 * [Advanced Deep Learning: Sequence Modeling](https://maktabkhooneh.org/certificates/MK-BNYKXY/)
-* [Machin Vision and Image Processing with OpenCV](https://maktabkhooneh.org/certificates/MK-DBKW9I/)
+* [Machine Vision and Image Processing with OpenCV](https://maktabkhooneh.org/certificates/MK-DBKW9I/)
 
 ## SoloLearn
 * [Python Core](https://www.sololearn.com/certificates/CT-UQZFGFWB)
