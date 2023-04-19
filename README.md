@@ -55,7 +55,7 @@ Five Deep Learning Low Level Modeling with Tensorflow Projects. [repository](htt
 A comprehensive investigation on Car Price Prediction (Tensorflow-keras). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-Car-Price-Prediction-Tensorflow-keras) for more information.  
 A comprehensive investigation on CIFAR10 Deep Neural Network (Tensorflow-keras). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-CIFAR10-Deep-Neural-Network-Tensorflow-keras) for more information.  
 A-comprehensive investigation on CIFAR10 CNN (Tensorflow-keras). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-CIFAR10-CNN-Tensorflow-keras) for more information.  
-A comprehensive investigatio on GOOGLE Stock Price (RNN,LSTM,GRU,DeepAR) (Tensorflow-keras-Darts). [repository](https://github.com/iamBehzad/A-comprehensive-investigatio-on-GOOGLE-Stock-Price-RNN-LSTM-GRU-DeepAR-Tensorflow-keras-Darts-) for more information.  
+A comprehensive investigation on GOOGLE Stock Price Prediction (RNN,LSTM,GRU,DeepAR) (Tensorflow-keras-Darts). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-GOOGLE-Stock-Price-RNN-LSTM-GRU-DeepAR-Tensorflow-keras-Darts-) for more information.  
 
 ## Advanced Differential Evolution (ADE)
 A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by improving the DE algorithm.  
