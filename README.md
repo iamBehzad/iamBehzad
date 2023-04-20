@@ -47,8 +47,8 @@ Clustering-Mall-Customers-Dataset is a project that applies K-means and DBSCAN c
 In this repository you can find codes of "Face Recognition", "Human Posture Recognition", "Object Detection and Tracking", "Skin Detection". [repository](https://github.com/iamBehzad/Machin-Vision-and-Image-Processing) for more information.|
 
 | <h2>Advanced Differential Evolution (ADE) (MATLAB)</h2>|
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by improving the DE algorithm. [repository](https://github.com/iamBehzad/Advanced-Differential-Evolution) for more information.|
+| -------- |
+|A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by improving the DE algorithm. [repository](https://github.com/iamBehzad/Advanced-Differential-Evolution) for more information.-------------|
 
 | <h2>Complex-Networks (Python and NetworkX library, MATLAB)</h2>|
 | -------- |
