@@ -57,7 +57,7 @@ In this repository you can find codes of "Face Recognition", "Human Posture Reco
 
 | <h2>Data_Mining_Statistics_Python (Numpy, Scipy, Pandas, Matplotlib, Statistics)</h2>|
 | -------- |
-|In this repository you can find some helpful codes for Data Mining Statistics. [repository](https://github.com/iamBehzad/Data_Mining_Statistics_Python) for more information.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|In this repository you can find some helpful codes for Data Mining Statistics. [repository](https://github.com/iamBehzad/Data_Mining_Statistics_Python) for more information. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
 # 🎓 Education
 
