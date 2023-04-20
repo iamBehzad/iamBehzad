@@ -13,7 +13,7 @@ I am a PhD candidate with extensive expertise in machine learning, deep learning
 * Machine Vision and Image Processing
 * Metaheuristic algorithms (Swarm Intelligence, Evolutionary Computation)
 * Microsoft Office (Word, Excel, PowerPoint)
-* 
+
 ## Intermediate Proficiency
 * HTML & Web development fundamentals
 * SQL
