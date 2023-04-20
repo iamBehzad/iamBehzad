@@ -39,7 +39,7 @@ Here are some of my recent projects that showcase my skills and expertise:
 |**6**- Churn Modelling Mlp (PyTorch) [Repository](https://github.com/iamBehzad/Churn_Modelling-Mlp) for more information.|
 |**7**- Fake News Detection MLP (PyTorch)[Repository](https://github.com/iamBehzad/FakeNewsDetection-MLP) for more information.|
 
-| <h2>Machine-Vision-and-Image-Processing (OpenCV)</h2>|
+| <h2>Machine Vision and Image Processing (OpenCV)</h2>|
 | -------- |
 In this repository you can find codes of "Face Recognition", "Human Posture Recognition", "Object Detection and Tracking", "Skin Detection". [Repository](https://github.com/iamBehzad/Machin-Vision-and-Image-Processing) for more information.|
 
