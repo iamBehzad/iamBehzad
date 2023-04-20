@@ -1,7 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋  
 I am a PhD candidate with extensive expertise in machine learning, deep learning, reinforcement learning, image processing, machine vision, natural language processing, and optimization/metaheuristic algorithms, including evolutionary computation and swarm intelligence. I have experience developing ML algorithms using Python and popular libraries such as PyTorch, TensorFlow, Keras, OpenCV, NLTK, and Scikit-learn.
-
 
 # 🔭 SKILLS
 ## High Proficiency
@@ -15,7 +13,7 @@ I am a PhD candidate with extensive expertise in machine learning, deep learning
 * Machine Vision and Image Processing
 * Metaheuristic algorithms (Swarm Intelligence, Evolutionary Computation)
 * Microsoft Office (Word, Excel, PowerPoint)
-
+* 
 ## Intermediate Proficiency
 * HTML & Web development fundamentals
 * SQL
@@ -46,13 +44,11 @@ Clustering-Mall-Customers-Dataset is a project that applies K-means and DBSCAN c
 
 | <h2>Machine-Vision-and-Image-Processing (OpenCV)</h2>|
 | -------- |
-In this repository you can find codes of "Face Recognition", "Human Posture Recognition", "Object Detection and Tracking", "Skin Detection"
-[repository](https://github.com/iamBehzad/Machin-Vision-and-Image-Processing) for more information.|
+In this repository you can find codes of "Face Recognition", "Human Posture Recognition", "Object Detection and Tracking", "Skin Detection". [repository](https://github.com/iamBehzad/Machin-Vision-and-Image-Processing) for more information.|
 
 | <h2>Advanced Differential Evolution (ADE) (MATLAB)</h2>|
 | -------- |
-|A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by improving the DE algorithm.  
-[repository](https://github.com/iamBehzad/Advanced-Differential-Evolution) for more information.|
+|A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by improving the DE algorithm. [repository](https://github.com/iamBehzad/Advanced-Differential-Evolution) for more information.|
 
 | <h2>Complex-Networks (Python and NetworkX library, MATLAB)</h2>|
 | -------- |
