@@ -23,49 +23,49 @@ I am a PhD candidate with extensive expertise in machine learning, deep learning
 
 # 🌱 Projects
 Here are some of my recent projects that showcase my skills and expertise:
-
-## Streamlit-Vaccination-Regression
+## machine Learning (ScikitLearn-PyCaret)
+I have several projects of Machine Learning that I used Tensorflow, keras and Darts libraries :
+1- Streamlit-Vaccination-Regression
 Project1.ipynb ===> Python Code of RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model for prediction Covid Vaccination with scikit-learn module  
 PyCaret_Vaccination.ipynb ====> Python Code of some various regressor Model for prediction Covid Vaccination with PyCaret module  
 Covid.py ===> Python Codes of deploying RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model on Streamlit.  
-[repository](https://github.com/iamBehzad/Streamlit-Vaccination-Regression) for more information.
-
-## Streamlit-ChurnModel-Classification
+[repository](https://github.com/iamBehzad/Streamlit-Vaccination-Regression) for more information.  
+2- Streamlit-ChurnModel-Classification
 Project2.ipynb ===> Python Code of XGboost , Random Forest , SVC , Logistic Regression Model for prediction Churn with scikit-learn module  
 PyCaret_Vaccination.ipynb ====> Python Code of some various classification Model for prediction Chrun with PyCaret module  
 Chrun.py ===> Python Codes of deploying XGboost , Random Forest , SVC , Logistic Regression Model on Streamlit.  
 [repository](https://github.com/iamBehzad/Streamlit-ChurnModel-Classification) for more information.
 
-## Churn_Modelling-Mlp
-In this repository you can find some helpful codes for Churn Modelling with Mlp with PyTorch library.  
-[repository](https://github.com/iamBehzad/Churn_Modelling-Mlp) for more information.
+## Deep Learning (Tensorflow-keras-Darts-Pytorch)
+I have several projects of Deep Learning that I used Tensorflow, keras and Darts libraries :
 
-## FakeNewsDetection-MLP
+1- Five Deep Learning Low Level Modeling with Tensorflow Projects. [repository](https://github.com/iamBehzad/Five-Deep-Learning-Low-Level-Modeling-with-Tensorflow-Projects) for more information.  
+2- A comprehensive investigation on Car Price Prediction (Tensorflow-keras). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-Car-Price-Prediction-Tensorflow-keras) for more information.  
+3- A comprehensive investigation on CIFAR10 Deep Neural Network (Tensorflow-keras). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-CIFAR10-Deep-Neural-Network-Tensorflow-keras) for more information.  
+4- A-comprehensive investigation on CIFAR10 CNN (Tensorflow-keras). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-CIFAR10-CNN-Tensorflow-keras) for more information.  
+5- A comprehensive investigation on GOOGLE Stock Price Prediction (RNN,LSTM,GRU,DeepAR) (Tensorflow-keras-Darts). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-GOOGLE-Stock-Price-RNN-LSTM-GRU-DeepAR-Tensorflow-keras-Darts-) for more information.  
+6- Churn_Modelling-Mlp
+In this repository you can find some helpful codes for Churn Modelling with Mlp with PyTorch library.  
+[repository](https://github.com/iamBehzad/Churn_Modelling-Mlp) for more information.  
+7- FakeNewsDetection-MLP
 In this repository you can find codes of "Fake News Detection" with MLP.  
 [repository](https://github.com/iamBehzad/FakeNewsDetection-MLP) for more information.
 
-## Machine-Vision-and-Image-Processing
+## Machine-Vision-and-Image-Processing (OpenCV)
 In this repository you can find codes of "Face Recognition", "Human Posture Recognition", "Object Detection and Tracking", "Skin Detection"
 [repository](https://github.com/iamBehzad/Machin-Vision-and-Image-Processing) for more information.
 
-## Deep Learning (Tensorflow-keras-Darts)
-I have several projects of Deep Learning that I used Tensorflow, keras and Darts libraries :
-
-Five Deep Learning Low Level Modeling with Tensorflow Projects. [repository](https://github.com/iamBehzad/Five-Deep-Learning-Low-Level-Modeling-with-Tensorflow-Projects) for more information.  
-A comprehensive investigation on Car Price Prediction (Tensorflow-keras). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-Car-Price-Prediction-Tensorflow-keras) for more information.  
-A comprehensive investigation on CIFAR10 Deep Neural Network (Tensorflow-keras). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-CIFAR10-Deep-Neural-Network-Tensorflow-keras) for more information.  
-A-comprehensive investigation on CIFAR10 CNN (Tensorflow-keras). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-CIFAR10-CNN-Tensorflow-keras) for more information.  
-A comprehensive investigation on GOOGLE Stock Price Prediction (RNN,LSTM,GRU,DeepAR) (Tensorflow-keras-Darts). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-GOOGLE-Stock-Price-RNN-LSTM-GRU-DeepAR-Tensorflow-keras-Darts-) for more information.  
-
-## Advanced Differential Evolution (ADE)
+## Advanced Differential Evolution (ADE) (MATLAB)
 A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by improving the DE algorithm.  
 [repository](https://github.com/iamBehzad/Advanced-Differential-Evolution) for more information.
 
-## Complex-Networks
-In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with NetworkX library.  
-[repository](https://github.com/iamBehzad/Complex-Networks) for more information.
+## Complex-Networks (Python: NetworkX, MATLAB)
+In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with NetworkX library in Python.  
+[repository](https://github.com/iamBehzad/Complex-Networks-Python) for more information.  
+In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with MATLAB.  
+[repository](https://github.com/iamBehzad/Complex-Networks-Matlab) for more information.  
 
-## Data_Mining_Statistics_Python
+## Data_Mining_Statistics_Python (Numpy, Scipy, Pandas, Matplotlib, Statistics)
 In this repository you can find some helpful codes for Data Mining Statistics.  
 [repository](https://github.com/iamBehzad/Data_Mining_Statistics_Python) for more information.
 
