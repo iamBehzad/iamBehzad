@@ -23,7 +23,7 @@ I am a PhD candidate with extensive expertise in machine learning, deep learning
 
 # 🌱 Projects
 Here are some of my recent projects that showcase my skills and expertise:
-## machine Learning (ScikitLearn-PyCaret)
+## machine Learning (Scikit-Learn and PyCaret)
 I have several projects of Machine Learning that I used Tensorflow, keras and Darts libraries :
 1- Streamlit-Vaccination-Regression
 Project1.ipynb ===> Python Code of RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model for prediction Covid Vaccination with scikit-learn module  
@@ -35,8 +35,9 @@ Project2.ipynb ===> Python Code of XGboost , Random Forest , SVC , Logistic Regr
 PyCaret_Vaccination.ipynb ====> Python Code of some various classification Model for prediction Chrun with PyCaret module  
 Chrun.py ===> Python Codes of deploying XGboost , Random Forest , SVC , Logistic Regression Model on Streamlit.  
 [repository](https://github.com/iamBehzad/Streamlit-ChurnModel-Classification) for more information.
-
-## Deep Learning (Tensorflow-keras-Darts-Pytorch)
+3- Clustering-Mall-Customers-Dataset:The data of Market Basket Analysis is clustered using k-means and DBSCAN clustering methods
+[repository](https://github.com/iamBehzad/Clustering-Mall-Customers-Dataset) for more information.  
+## Deep Learning (Tensorflow, keras, Darts and Pytorch)
 I have several projects of Deep Learning that I used Tensorflow, keras and Darts libraries :
 
 1- Five Deep Learning Low Level Modeling with Tensorflow Projects. [repository](https://github.com/iamBehzad/Five-Deep-Learning-Low-Level-Modeling-with-Tensorflow-Projects) for more information.  
@@ -59,7 +60,7 @@ In this repository you can find codes of "Face Recognition", "Human Posture Reco
 A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by improving the DE algorithm.  
 [repository](https://github.com/iamBehzad/Advanced-Differential-Evolution) for more information.
 
-## Complex-Networks (Python: NetworkX, MATLAB)
+## Complex-Networks (Python and NetworkX library, MATLAB)
 In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with NetworkX library in Python.  
 [repository](https://github.com/iamBehzad/Complex-Networks-Python) for more information.  
 In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with MATLAB.  
