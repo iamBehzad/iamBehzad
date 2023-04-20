@@ -41,7 +41,7 @@ Here are some of my recent projects that showcase my skills and expertise:
 
 | <h2>Machine Vision and Image Processing (OpenCV)</h2>|
 | -------- |
-In this repository you can find codes of "Face Recognition", "Human Posture Recognition", "Object Detection and Tracking", "Skin Detection". [Repository](https://github.com/iamBehzad/Machin-Vision-and-Image-Processing) for more information.|
+In this repository you can find codes of "Face Recognition", "Human Posture Recognition", "Object Detection and Tracking", "Skin Detection". [Repository](https://github.com/iamBehzad/Machine-Vision-and-Image-Processing) for more information.|
 
 | <h2>Advanced Differential Evolution (ADE) (MATLAB)</h2>|
 | -------- |
