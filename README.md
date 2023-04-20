@@ -35,7 +35,7 @@ Here are some of my recent projects that showcase my skills and expertise:
 |**2**- A comprehensive investigation on Car Price Prediction (Tensorflow-keras). [Repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-Car-Price-Prediction-Tensorflow-keras) for more information.|
 |**3**- A comprehensive investigation on CIFAR10 Deep Neural Network (Tensorflow-keras. [Repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-CIFAR10-Deep-Neural-Network-Tensorflow-keras) for more information.|
 |**4**- A-comprehensive investigation on CIFAR10 CNN (Tensorflow-keras). [Repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-CIFAR10-CNN-Tensorflow-keras) for more information.|
-|**5**- A comprehensive investigation on GOOGLE Stock Price Prediction (RNN,LSTM,GRU,DeepAR) (Tensorflow-keras-Darts). [Repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-GOOGLE-Stock-Price-RNN-LSTM-GRU-DeepAR-Tensorflow-keras-Darts-) for more information.|
+|**5**- A comprehensive investigation on GOOGLE Stock Price Prediction (RNN, LSTM, GRU, DeepAR) (Tensorflow, keras, Darts). [Repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-GOOGLE-Stock-Price-RNN-LSTM-GRU-DeepAR-Tensorflow-keras-Darts-) for more information.|
 |**6**- Churn Modelling Mlp (PyTorch) [Repository](https://github.com/iamBehzad/Churn_Modelling-Mlp) for more information.|
 |**7**- Fake News Detection MLP (PyTorch)[Repository](https://github.com/iamBehzad/FakeNewsDetection-MLP) for more information.|
 
