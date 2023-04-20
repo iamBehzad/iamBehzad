@@ -24,7 +24,7 @@ I am a PhD candidate with extensive expertise in machine learning, deep learning
 # 🌱 Projects
 Here are some of my recent projects that showcase my skills and expertise:  
 
-## machine Learning (Scikit-Learn and PyCaret)
+## Machine Learning (Scikit-Learn and PyCaret)
 
 **1- Streamlit-Vaccination-Regression**:  
 Streamlit-Vaccination-Regression is a project that utilizes various regression models to predict Covid vaccination rates. The project uses Python with the scikit-learn and PyCaret modules. It provides Python code for RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, and LinearRegression models.  
