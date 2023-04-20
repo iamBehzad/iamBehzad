@@ -34,7 +34,7 @@ Streamlit-ChurnModel-Classification is a project that uses several classificatio
 |**3- Clustering-Mall-Customers-Dataset**:
 Clustering-Mall-Customers-Dataset is a project that applies K-means and DBSCAN clustering methods to the Mall Customers dataset, which contains information about spending habits of customers in a mall.The project uses Python with the scikit-learn and Pandas modules. It provides Python code for implementing K-means and DBSCAN clustering methods and visualizing the results using Matplotlib. [repository](https://github.com/iamBehzad/Clustering-Mall-Customers-Dataset) for more information.|
 
-| **Deep Learning (Tensorflow, keras, Darts and Pytorch)**|
+| <h1>Deep Learning (Tensorflow, keras, Darts and Pytorch)</h1>|
 | --- |
 |**1**- Five Deep Learning Low Level Modeling with Tensorflow Projects. [repository](https://github.com/iamBehzad/Five-Deep-Learning-Low-Level-Modeling-with-Tensorflow-Projects) for more information.| 
 |**2**- A comprehensive investigation on Car Price Prediction (Tensorflow-keras). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-Car-Price-Prediction-Tensorflow-keras) for more information.|
@@ -44,25 +44,25 @@ Clustering-Mall-Customers-Dataset is a project that applies K-means and DBSCAN c
 |**6**- Churn Modelling Mlp (PyTorch) [repository](https://github.com/iamBehzad/Churn_Modelling-Mlp) for more information.|
 |**7**- Fake News Detection MLP (PyTorch)[repository](https://github.com/iamBehzad/FakeNewsDetection-MLP) for more information.|
 
-## Machine-Vision-and-Image-Processing (OpenCV)
-
+| <h1>Machine-Vision-and-Image-Processing (OpenCV)</h1>|
+| --- |
 In this repository you can find codes of "Face Recognition", "Human Posture Recognition", "Object Detection and Tracking", "Skin Detection"
-[repository](https://github.com/iamBehzad/Machin-Vision-and-Image-Processing) for more information.
+[repository](https://github.com/iamBehzad/Machin-Vision-and-Image-Processing) for more information.|
 
-## Advanced Differential Evolution (ADE) (MATLAB)
+| <h1>Advanced Differential Evolution (ADE) (MATLAB)</h1>|
+| --- |
+|A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by improving the DE algorithm.  
+[repository](https://github.com/iamBehzad/Advanced-Differential-Evolution) for more information.|
 
-A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by improving the DE algorithm.  
-[repository](https://github.com/iamBehzad/Advanced-Differential-Evolution) for more information.
+| <h1>Complex-Networks (Python and NetworkX library, MATLAB)</h1>|
+| --- |
+|**1- Complex-Networks (Python and NetworkX)** In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with NetworkX library in Python. [repository](https://github.com/iamBehzad/Complex-Networks-Python) for more information.|
 
-## Complex-Networks (Python and NetworkX library, MATLAB)
+|**2- Complex-Networks (MATLAB)** In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with MATLAB. [repository](https://github.com/iamBehzad/Complex-Networks-Matlab) for more information.|
 
-**1- Complex-Networks (Python and NetworkX)** In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with NetworkX library in Python. [repository](https://github.com/iamBehzad/Complex-Networks-Python) for more information.  
-
-**2- Complex-Networks (MATLAB)** In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with MATLAB. [repository](https://github.com/iamBehzad/Complex-Networks-Matlab) for more information.  
-
-## Data_Mining_Statistics_Python (Numpy, Scipy, Pandas, Matplotlib, Statistics)
-
-In this repository you can find some helpful codes for Data Mining Statistics. [repository](https://github.com/iamBehzad/Data_Mining_Statistics_Python) for more information.
+| <h1>Data_Mining_Statistics_Python (Numpy, Scipy, Pandas, Matplotlib, Statistics)</h1>|
+| --- |
+|In this repository you can find some helpful codes for Data Mining Statistics. [repository](https://github.com/iamBehzad/Data_Mining_Statistics_Python) for more information.|
 
 # 🎓 Education
 
