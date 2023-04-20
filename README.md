@@ -67,7 +67,7 @@ Islamic Azad University
 Jan 2011 - Jan 2014
 
 ## Bachelor of Computer Engineering, Computer Software Engineering
-Islamic Azad UniversityIslamic Azad University
+Islamic Azad University
 Sep 2004 - Jun 2008
 
 # 🏆 Certifications
