@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I am a PhD candidate with extensive expertise in machine learning, deep learning, reinforcement learning, image processing, machine vision, natural language processing, and optimization/metaheuristic algorithms, including evolutionary computation and swarm intelligence. I have experience developing ML algorithms using Python and popular libraries such as PyTorch, TensorFlow, Keras, OpenCV, NLTK, and Scikit-learn.
+I am a PhD candidate with extensive expertise in machine learning, deep learning, reinforcement learning, image processing, machine vision, natural language processing, and optimization/metaheuristic algorithms, including evolutionary computation and swarm intelligence. I have experience developing ML algorithms using Python and popular libraries such as PyTorch, TensorFlow, Keras, OpenCV, NLTK, Scikit-learn, and etc.
 
 # 🔭 SKILLS
 ## High Proficiency
