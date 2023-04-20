@@ -31,30 +31,30 @@ Here are some of my recent projects that showcase my skills and expertise:
 
 | <h2>Deep Learning (Tensorflow, keras, Darts and Pytorch)</h2>|
 | -------- |
-|**1**- Five Deep Learning Low Level Modeling with Tensorflow Projects. [repository](https://github.com/iamBehzad/Five-Deep-Learning-Low-Level-Modeling-with-Tensorflow-Projects) for more information.| 
-|**2**- A comprehensive investigation on Car Price Prediction (Tensorflow-keras). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-Car-Price-Prediction-Tensorflow-keras) for more information.|
-|**3**- A comprehensive investigation on CIFAR10 Deep Neural Network (Tensorflow-keras. [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-CIFAR10-Deep-Neural-Network-Tensorflow-keras) for more information.|
-|**4**- A-comprehensive investigation on CIFAR10 CNN (Tensorflow-keras). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-CIFAR10-CNN-Tensorflow-keras) for more information.|
-|**5**- A comprehensive investigation on GOOGLE Stock Price Prediction (RNN,LSTM,GRU,DeepAR) (Tensorflow-keras-Darts). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-GOOGLE-Stock-Price-RNN-LSTM-GRU-DeepAR-Tensorflow-keras-Darts-) for more information.|
-|**6**- Churn Modelling Mlp (PyTorch) [repository](https://github.com/iamBehzad/Churn_Modelling-Mlp) for more information.|
-|**7**- Fake News Detection MLP (PyTorch)[repository](https://github.com/iamBehzad/FakeNewsDetection-MLP) for more information.|
+|**1**- Five Deep Learning Low Level Modeling with Tensorflow Projects. [Repository](https://github.com/iamBehzad/Five-Deep-Learning-Low-Level-Modeling-with-Tensorflow-Projects) for more information.| 
+|**2**- A comprehensive investigation on Car Price Prediction (Tensorflow-keras). [Repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-Car-Price-Prediction-Tensorflow-keras) for more information.|
+|**3**- A comprehensive investigation on CIFAR10 Deep Neural Network (Tensorflow-keras. [Repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-CIFAR10-Deep-Neural-Network-Tensorflow-keras) for more information.|
+|**4**- A-comprehensive investigation on CIFAR10 CNN (Tensorflow-keras). [Repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-CIFAR10-CNN-Tensorflow-keras) for more information.|
+|**5**- A comprehensive investigation on GOOGLE Stock Price Prediction (RNN,LSTM,GRU,DeepAR) (Tensorflow-keras-Darts). [Repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-GOOGLE-Stock-Price-RNN-LSTM-GRU-DeepAR-Tensorflow-keras-Darts-) for more information.|
+|**6**- Churn Modelling Mlp (PyTorch) [Repository](https://github.com/iamBehzad/Churn_Modelling-Mlp) for more information.|
+|**7**- Fake News Detection MLP (PyTorch)[Repository](https://github.com/iamBehzad/FakeNewsDetection-MLP) for more information.|
 
 | <h2>Machine-Vision-and-Image-Processing (OpenCV)</h2>|
 | -------- |
-In this repository you can find codes of "Face Recognition", "Human Posture Recognition", "Object Detection and Tracking", "Skin Detection". [repository](https://github.com/iamBehzad/Machin-Vision-and-Image-Processing) for more information.|
+In this repository you can find codes of "Face Recognition", "Human Posture Recognition", "Object Detection and Tracking", "Skin Detection". [Repository](https://github.com/iamBehzad/Machin-Vision-and-Image-Processing) for more information.|
 
 | <h2>Advanced Differential Evolution (ADE) (MATLAB)</h2>|
 | -------- |
-|A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by improving the DE algorithm. [repository](https://github.com/iamBehzad/Advanced-Differential-Evolution) for more information. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by improving the DE algorithm. [Repository](https://github.com/iamBehzad/Advanced-Differential-Evolution) for more information. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
 | <h2>Complex-Networks (Python and NetworkX library, MATLAB)</h2>|
 | -------- |
-|**1- Complex-Networks (Python and NetworkX)** In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with NetworkX library in Python. [repository](https://github.com/iamBehzad/Complex-Networks-Python) for more information.|
-|**2- Complex-Networks (MATLAB)** In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with MATLAB. [repository](https://github.com/iamBehzad/Complex-Networks-Matlab) for more information.|
+|**1- Complex-Networks (Python and NetworkX)** In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with NetworkX library in Python. [Repository](https://github.com/iamBehzad/Complex-Networks-Python) for more information.|
+|**2- Complex-Networks (MATLAB)** In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with MATLAB. [Repository](https://github.com/iamBehzad/Complex-Networks-Matlab) for more information.|
 
 | <h2>Data_Mining_Statistics_Python (Numpy, Scipy, Pandas, Matplotlib, Statistics)</h2>|
 | -------- |
-|In this repository you can find some helpful codes for Data Mining Statistics. [repository](https://github.com/iamBehzad/Data_Mining_Statistics_Python) for more information. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|In this repository you can find some helpful codes for Data Mining Statistics. [Repository](https://github.com/iamBehzad/Data_Mining_Statistics_Python) for more information. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
 # 🎓 Education
 
