@@ -38,13 +38,13 @@ The project uses Python with the scikit-learn and Pandas modules. It provides Py
 
 ## Deep Learning (Tensorflow, keras, Darts and Pytorch)
 
-**1- Five Deep Learning Low Level Modeling with Tensorflow Projects**. [repository](https://github.com/iamBehzad/Five-Deep-Learning-Low-Level-Modeling-with-Tensorflow-Projects) for more information.  
-**2- A comprehensive investigation on Car Price Prediction (Tensorflow-keras)**. [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-Car-Price-Prediction-Tensorflow-keras) for more information.  
-**3- A comprehensive investigation on CIFAR10 Deep Neural Network (Tensorflow-keras**. [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-CIFAR10-Deep-Neural-Network-Tensorflow-keras) for more information.  
-**4- A-comprehensive investigation on CIFAR10 CNN (Tensorflow-keras)**. [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-CIFAR10-CNN-Tensorflow-keras) for more information.  
-**5- A comprehensive investigation on GOOGLE Stock Price Prediction (RNN,LSTM,GRU,DeepAR) (Tensorflow-keras-Darts)**. [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-GOOGLE-Stock-Price-RNN-LSTM-GRU-DeepAR-Tensorflow-keras-Darts-) for more information.  
-**6- Churn Modelling Mlp (PyTorch)** [repository](https://github.com/iamBehzad/Churn_Modelling-Mlp) for more information.  
-**7- Fake News Detection MLP (PyTorch)**[repository](https://github.com/iamBehzad/FakeNewsDetection-MLP) for more information.
+**1**- Five Deep Learning Low Level Modeling with Tensorflow Projects. [repository](https://github.com/iamBehzad/Five-Deep-Learning-Low-Level-Modeling-with-Tensorflow-Projects) for more information.  
+**2**- A comprehensive investigation on Car Price Prediction (Tensorflow-keras). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-Car-Price-Prediction-Tensorflow-keras) for more information.  
+**3**- A comprehensive investigation on CIFAR10 Deep Neural Network (Tensorflow-keras. [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-CIFAR10-Deep-Neural-Network-Tensorflow-keras) for more information.  
+**4**- A-comprehensive investigation on CIFAR10 CNN (Tensorflow-keras). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-CIFAR10-CNN-Tensorflow-keras) for more information.  
+**5**- A comprehensive investigation on GOOGLE Stock Price Prediction (RNN,LSTM,GRU,DeepAR) (Tensorflow-keras-Darts). [repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-GOOGLE-Stock-Price-RNN-LSTM-GRU-DeepAR-Tensorflow-keras-Darts-) for more information.  
+**6**- Churn Modelling Mlp (PyTorch) [repository](https://github.com/iamBehzad/Churn_Modelling-Mlp) for more information.  
+**7**- Fake News Detection MLP (PyTorch)[repository](https://github.com/iamBehzad/FakeNewsDetection-MLP) for more information.
 
 ## Machine-Vision-and-Image-Processing (OpenCV)
 
