@@ -48,12 +48,11 @@ In this repository you can find codes of "Face Recognition", "Human Posture Reco
 
 | <h2>Advanced Differential Evolution (ADE) (MATLAB)</h2>|
 | -------- |
-|A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by improving the DE algorithm. [repository](https://github.com/iamBehzad/Advanced-Differential-Evolution) for more information.-------------|
+|A metaheuristic algorithm, called Advanced Differential Evolution (ADE) by improving the DE algorithm. [repository](https://github.com/iamBehzad/Advanced-Differential-Evolution) for more information.                                          |
 
 | <h2>Complex-Networks (Python and NetworkX library, MATLAB)</h2>|
 | -------- |
 |**1- Complex-Networks (Python and NetworkX)** In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with NetworkX library in Python. [repository](https://github.com/iamBehzad/Complex-Networks-Python) for more information.|
-
 |**2- Complex-Networks (MATLAB)** In this repository you can find some helpful codes for implementation of some famouse Complex networks models and analayzing with MATLAB. [repository](https://github.com/iamBehzad/Complex-Networks-Matlab) for more information.|
 
 | <h2>Data_Mining_Statistics_Python (Numpy, Scipy, Pandas, Matplotlib, Statistics)</h2>|
