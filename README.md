@@ -22,21 +22,23 @@ I am a PhD candidate with extensive expertise in machine learning, deep learning
 * JAVA
 
 # 🌱 Projects
-Here are some of my recent projects that showcase my skills and expertise:
+Here are some of my recent projects that showcase my skills and expertise:  
+
 ## machine Learning (Scikit-Learn and PyCaret)
 I have several projects of Machine Learning that I used Tensorflow, keras and Darts libraries :
-1- Streamlit-Vaccination-Regression
-Project1.ipynb ===> Python Code of RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model for prediction Covid Vaccination with scikit-learn module  
-PyCaret_Vaccination.ipynb ====> Python Code of some various regressor Model for prediction Covid Vaccination with PyCaret module  
-Covid.py ===> Python Codes of deploying RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, LinearRegression Model on Streamlit.  
+1- Streamlit-Vaccination-Regression  
+Streamlit-Vaccination-Regression is a project that utilizes various regression models to predict Covid vaccination rates. The project uses Python with the scikit-learn and PyCaret modules. It provides Python code for RandomForestRegressor, DecisionTreeRegressor, KNeighborsregressor, and LinearRegression models.
+Additionally, the project also provides Python code for deploying these models on Streamlit cloud. This allows easy access and sharing of the models.
 [repository](https://github.com/iamBehzad/Streamlit-Vaccination-Regression) for more information.  
 2- Streamlit-ChurnModel-Classification
-Project2.ipynb ===> Python Code of XGboost , Random Forest , SVC , Logistic Regression Model for prediction Churn with scikit-learn module  
-PyCaret_Vaccination.ipynb ====> Python Code of some various classification Model for prediction Chrun with PyCaret module  
-Chrun.py ===> Python Codes of deploying XGboost , Random Forest , SVC , Logistic Regression Model on Streamlit.  
+Streamlit-ChurnModel-Classification is a project that uses several classification models to predict customer churn. The project uses Python with the scikit-learn and PyCaret modules.
+The project provides Python code for XGboost, Random Forest, SVC, and Logistic Regression models. It also provides Python code for deploying these models on Streamlit, making it easy to access and share them.
 [repository](https://github.com/iamBehzad/Streamlit-ChurnModel-Classification) for more information.
-3- Clustering-Mall-Customers-Dataset:The data of Market Basket Analysis is clustered using k-means and DBSCAN clustering methods
+3- Clustering-Mall-Customers-Dataset:
+Clustering-Mall-Customers-Dataset is a project that applies K-means and DBSCAN clustering methods to the Mall Customers dataset, which contains information about spending habits of customers in a mall.
+The project uses Python with the scikit-learn and Pandas modules. It provides Python code for implementing K-means and DBSCAN clustering methods and visualizing the results using Matplotlib.
 [repository](https://github.com/iamBehzad/Clustering-Mall-Customers-Dataset) for more information.  
+
 ## Deep Learning (Tensorflow, keras, Darts and Pytorch)
 I have several projects of Deep Learning that I used Tensorflow, keras and Darts libraries :
 
