@@ -29,7 +29,7 @@ Here are some of my recent projects that showcase my skills and expertise:
 | **2- Streamlit-ChurnModel-Classification**:<br>A project that uses several classification models to predict customer churn. The project uses Python with the Scikit-Learn and PyCaret modules. It provides Python code for `XGBoost`, `RandomForestClassifier`, `SVC`, and `LogisticRegression` models. It also provides Python code for deploying these models on Streamlit, making it easy to access and share them. [Repository](https://github.com/iamBehzad/Streamlit-ChurnModel-Classification) for more information. |
 | **3- Clustering-Mall-Customers-Dataset**:<br>A project that applies K-means and DBSCAN clustering methods to the Mall Customers dataset, which contains information about spending habits of customers in a mall. The project uses Python with the Scikit-Learn and Pandas modules. It provides Python code for implementing K-means and DBSCAN clustering methods and visualizing the results using Matplotlib. [Repository](https://github.com/iamBehzad/Clustering-Mall-Customers-Dataset) for more information. |
 
-| <h2>Deep Learning (Tensorflow, keras, Darts and Pytorch)</h2>|
+| <h2>Deep Learning (Tensorflow, keras, Darts, Pytorch and Scikit-learn)</h2>|
 | -------- |
 |**1**- Five Deep Learning Low Level Modeling with Tensorflow Projects. [Repository](https://github.com/iamBehzad/Five-Deep-Learning-Low-Level-Modeling-with-Tensorflow-Projects) for more information.| 
 |**2**- A comprehensive investigation on Car Price Prediction (Tensorflow-keras). [Repository](https://github.com/iamBehzad/A-comprehensive-investigation-on-Car-Price-Prediction-Tensorflow-keras) for more information.|
