@@ -77,7 +77,7 @@ Sep 2004 - Jun 2008
 * [Reinforcement Learning](https://maktabkhooneh.org/certificates/MK-3R7BQW/)
 * [Deep Learning with Tensorflow and Keras](https://maktabkhooneh.org/certificates/MK-K1NCSR/)
 * [Advanced Deep Learning: Low Level Modeling](https://maktabkhooneh.org/certificates/MK-QGQ26A/)
-* [Advanced Deep Learning: Sequence Modeling](https://maktabkhooneh.org/certificates/MK-BNYKXY/)
+* [Advanced Deep Learning: Sequence Modeling](https://maktabkhooneh.org/certificates/MK-1VH19V/)
 * [Machine Vision and Image Processing with OpenCV](https://maktabkhooneh.org/certificates/MK-DBKW9I/)
 
 ## SoloLearn
